@@ -1,8 +1,18 @@
 from flask import Flask, render_template, request, flash, redirect
 import os
+from dotenv import load_dotenv
+
+# .env dosyasını yükle
+load_dotenv()
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = os.environ.get('SECRET_KEY', 'default-secret-key-for-development')
+
+# Ortam değişkenlerinden ayarları al
+app.config['SECRET_KEY'] = os.getenv('SECRET_KEY')
+app.config['DEBUG'] = os.getenv('DEBUG', 'False').lower() == 'true'
+
+# Static folder yapılandırması
+app = Flask(__name__, static_folder='static', static_url_path='/static')
 
 # Blog postları örneği
 posts = [
@@ -122,4 +132,5 @@ def contact():
     return render_template("contact.html")
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = int(os.environ.get('PORT', 5001))
+    app.run(host='0.0.0.0', port=port, debug=False)
