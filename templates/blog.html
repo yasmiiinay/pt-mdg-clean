@@ -41,7 +41,7 @@
       {% for post in posts %}
       <article class="card group overflow-hidden">
         <div class="aspect-w-16 aspect-h-9">
-          <img src="{{ post.image }}" alt="{{ post.title }}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-200">
+          <img src="{{ url_for('static', filename=post.image) }}" alt="{{ post.title }}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-200">
         </div>
         <div class="p-6">
           <div class="flex items-center gap-4 mb-4">
