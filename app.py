@@ -32,7 +32,7 @@ posts = [
         "content": "Kas yapmak sadece spor salonunda geçirdiğin saatlere bağlı değildir. Antrenman kadar, hatta bazen daha da önemli olan başka bir faktör var: uyku. Peki neden uyku kas gelişiminde bu kadar kritik? Öncelikle, vücudumuz uyku sırasında kendini tamir eder ve yeniler. Kaslarımız da antrenman sonrası yıpranır; işte uyku, bu yıpranan kasların onarımı ve güçlenmesi için olmazsa olmazdır. Yeterince uyumayan biri, kaslarının tam anlamıyla toparlanmasına fırsat vermez.Ayrıca, uyku hormon dengemizi düzenler. Özellikle büyüme hormonu, kas yapımında ve yağ yakımında önemli rol oynar. Bu hormonun en yüksek seviyede salgılandığı zaman, derin uyku evresidir. Yani kaliteli uyku, doğal kas gelişimini destekleyen bir hormonal denge sağlar.Son olarak, uyku eksikliği sadece kasları değil, motivasyonunu, enerjini ve genel performansını da olumsuz etkiler. Antrenmanlarda istediğin verimi alamaz, kendini yorgun hissedersen, hedeflerine ulaşman zorlaşır. Özetle; iyi bir uyku, kas gelişiminin temel taşıdır. Spor salonunda harcadığın emek kadar, yatağında geçirdiğin saatlere de değer ver. Vücuduna saygı göster, dinlen ve büyümesini destekle. Çünkü kasların, sen uyurken büyür.",
         "date": "2025-06-02",
         "kategori": "Antrenman",
-        "image": "/static/2.png"
+        "image": "/static/2.jpg"
     },
     {
         "id": 3,
@@ -41,7 +41,7 @@ posts = [
         "content": "...",
         "date": "2025-06-03",
         "kategori": "Sağlık",
-        "image": "/static/3.png"
+        "image": "/static/3.jpg"
     },
     {
         "id": 4,
@@ -50,7 +50,7 @@ posts = [
         "content": "...",
         "date": "2025-06-04",
         "kategori": "Beslenme",
-        "image": "/static/4.png"
+        "image": "/static/4.jpg"
     },
     {
         "id": 5,
@@ -59,7 +59,7 @@ posts = [
         "content": "...",
         "date": "2025-06-05",
         "kategori": "Antrenman",
-        "image": "/static/5.png"
+        "image": "/static/5.jpg"
     },
     {
         "id": 6,
@@ -68,7 +68,7 @@ posts = [
         "content": "Kas yapmak sadece spor salonunda geçirdiğin saatlere bağlı değildir. Antrenman kadar, hatta bazen daha da önemli olan başka bir faktör var: uyku. Peki neden uyku kas gelişiminde bu kadar kritik? Öncelikle, vücudumuz uyku sırasında kendini tamir eder ve yeniler. Kaslarımız da antrenman sonrası yıpranır; işte uyku, bu yıpranan kasların onarımı ve güçlenmesi için olmazsa olmazdır. Yeterince uyumayan biri, kaslarının tam anlamıyla toparlanmasına fırsat vermez.Ayrıca, uyku hormon dengemizi düzenler. Özellikle büyüme hormonu, kas yapımında ve yağ yakımında önemli rol oynar. Bu hormonun en yüksek seviyede salgılandığı zaman, derin uyku evresidir. Yani kaliteli uyku, doğal kas gelişimini destekleyen bir hormonal denge sağlar.Son olarak, uyku eksikliği sadece kasları değil, motivasyonunu, enerjini ve genel performansını da olumsuz etkiler. Antrenmanlarda istediğin verimi alamaz, kendini yorgun hissedersen, hedeflerine ulaşman zorlaşır. Özetle; iyi bir uyku, kas gelişiminin temel taşıdır. Spor salonunda harcadığın emek kadar, yatağında geçirdiğin saatlere de değer ver. Vücuduna saygı göster, dinlen ve büyümesini destekle. Çünkü kasların, sen uyurken büyür.",
         "date": "2025-06-06",
         "kategori": "Sağlık",
-        "image": "/static/6.png"
+        "image": "/static/6.jpg"
     },
     {
         "id": 7,
@@ -77,7 +77,7 @@ posts = [
         "content": "...",
         "date": "2025-06-08",
         "kategori": "Sağlık",
-        "image": "/static/7.png"
+        "image": "/static/7.jpg"
     }
 ]
 
